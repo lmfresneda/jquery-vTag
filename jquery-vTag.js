@@ -1,10 +1,10 @@
 /*
  *  jquery-vTag - v0.0.1
  *  A jQuery tool to validate form data so easy
- *  https://github.com/Lu15M1gu3l/jquery-vTag
+ *  https://github.com/lmfresneda/jquery-vTag
  *
  *  Made by Luis Miguel F.
- *  Under MIT License (https://github.com/Lu15M1gu3l/jquery-vTag/blob/master/LICENSE)
+ *  Under MIT License (https://github.com/lmfresneda/jquery-vTag/blob/master/LICENSE)
  */
 ;(function ($) { 
     "use strict";
