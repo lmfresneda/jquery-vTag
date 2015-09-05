@@ -869,7 +869,7 @@
     };
 
     $.fn.vTag.defaults = {
-        lang: "es",
+        lang: "es-ES",
         visible_result: {
             ok: false,
             error: false
@@ -881,7 +881,7 @@
         }
     };
     $.fn.vTag.lang = {};
-    $.fn.vTag.lang["es"] = {
+    $.fn.vTag.lang["es-ES"] = {
         str_ok: "Campo validado",
         str_error: "Campo no válido",
         moment_not_found: "Librería 'moment.js' no encontrada. Visite http://momentjs.com/"
