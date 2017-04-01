@@ -1,7 +1,7 @@
 # jquery-vTag - v0.0.1
 Una herramienta jQuery para validar formularios de forma sencilla
 
-##Reglas que valida
+## Reglas que valida
 
 * **[required]**:        Indica que el campo es obligatorio, si es input deberá rellenarse, select deberá elegirse una opción que no sea nula o vacía (normalmente la primera opción) y checkbox o radio que sea chequedado
 * **[notwhitespaces]**:  Indica que el valor no puede contener espacios
@@ -33,7 +33,7 @@ Una herramienta jQuery para validar formularios de forma sencilla
 * **[url]**:             Indica que el valor debe ser una url válida
 * **[phonenumber]**:     Indica que el valor debe ser un nº de teléfono válido, validando finalmente (después de retirar paréntesis, guiones y espacios en blanco), que sea un nº de 9 cifras y que empieza por 6, 7, 8 ó 9
 
-##Cómo usar
+## Cómo usar
 
 jQuery vTag Hace uso de jQuery, por tanto necesitamos hacer uso de esta librería.
 
